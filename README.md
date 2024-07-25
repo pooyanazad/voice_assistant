@@ -9,7 +9,6 @@ A simple and fun voice assistant built using Flask and various Python libraries 
 - **Tell Jokes**: Get a random joke.
 - **Tell Time**: Know the current time.
 - **Search Wikipedia**: Get a brief summary from Wikipedia.
-- **Interactive GUI**: User-friendly interface to start and stop the assistant, with visual feedback.
 
 ## Technologies Used
 
